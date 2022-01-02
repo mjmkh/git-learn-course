@@ -1,11 +1,12 @@
 Hello world I am learning git, that's amazing!
 I'm so excited, let's go..
 
-Let's make some changes..
+Let's make some changes, and difficlut.
 
-It's going be fun
+It's going be fun and confusing.
 
 Hey, you, How's world treating you?
 
-Let's make it complicated
+Let's make it complicated, HAHA not easy at all.
 
+line 12 edited
